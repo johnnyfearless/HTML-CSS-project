@@ -1,4 +1,4 @@
-# 📚 Article Hub  
+# 📚 CSS/HTML Demo  
 **Django PostgreSQL Bootstrap**  
 
 An exploration in responsive design using Bootstrap and CSS. The exercise was to create a layout in which certain elements were given alighments of left, right and center, with the orientations remaining the same regardless of window size.
